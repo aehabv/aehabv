@@ -28,5 +28,5 @@
 [![Credly](https://img.shields.io/badge/-Credly-FF6B00?style=flat&logo=credly&logoColor=white "Credly")](https://www.credly.com/users/aehabv "Credly")
 
 #### Stay in touch
- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white "Gmail")](mailto:aehab16119@gmail.com "Gmail") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/%C3%A6hab "LinkedIn") [![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white "WhatsApp")](https://wa.me/+201094860674 "WhatsApp")
+ [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white "Gmail")](mailto:aehab16119@gmail.com "Gmail") [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white "LinkedIn")](https://www.linkedin.com/in/aehabv "LinkedIn")
 
