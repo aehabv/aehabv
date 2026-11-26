@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ehab 👋</h1>
+<h1 align="center">Eyyy, qué pasa! I'm Ehab 👋</h1>
 
 <p align="center">
   Data analyst from Egypt, who can't stop asking <i>"but why did the model say that?"</i>
